@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
+  "version": "1.0.1",
   "release_date": "2026-09-28",
   "mandatory": false,
-  "title_ar": "إصدار جديد متوفر لمصمم الكراتين (v1.1.1)",
-  "changelog_ar": "• إضافة قوالب كراتين جديدة متوافقة مع ماكينات الليزر.\n• تحسين سرعة الحسابات وتصدير ملفات DXF بنسبة 40%.\n• معالجة التحسينات العامة وزيادة استقرار التطبيق.",
-  "download_url": "https://github.com/ORZ39/CartonDesigner/releases/download/v1.1.1/CartonDesigner_Setup_v1.0.exe",
+  "title_ar": "إصدار جديد متوفر لمصمم الكراتين (v1.0.1)",
+  "changelog_ar": "• إطلاق النسخة المعتمدة لمصمم كراتين الليزر.\n• منظومة التراخيص الرقمية المقفلة بالعتاد.\n• دعم تصدير ملفات DXF, PDF, SVG, AI بدقة عالية.\n• معالج التثبيت لويندوز مع نظام التحديثات التلقائية.",
+  "download_url": "https://github.com/ORZ39/CartonDesigner/releases/download/v1.0.1/CartonDesigner_Setup_v1.0.exe",
   "file_size_mb": 41.51,
-  "sha256": "a8a3232d53340d6fb402276d6f0284e63b0bb5da50554e1ae904c719663aad0a"
+  "sha256": "a8bc5f2fcd4078015695113dc812894707935abc07c27d6595e005ab7efe5100"
 }
