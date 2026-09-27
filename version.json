@@ -4,7 +4,7 @@
   "mandatory": false,
   "title_ar": "النسخة الرسمية المعتمدة - Carton Designer Pro",
   "changelog_ar": "• إطلاق الإصدار التجاري الرسمي 1.0.0 لمصمم كراتين الليزر.\n• منظومة التراخيص الرقمية المؤمنة المقفلة بالعتاد.\n• معالج التثبيت الاحترافي Setup Installer ودعم كامل للعربية.\n• دعم قوالب الكراتين المتطورة، الكرتون 222 (أنوس)، وثنيات الكرتون المنحنية.\n• محرك استيراد وتصدير ملفات DXF و AI و PDF و SVG المتوافق مع ماكينات الليزر.",
-  "download_url": "https://github.com/ORZ39/CartonDesigner/releases/latest/download/CartonDesigner_Setup_v1.0.exe",
-  "file_size_mb": 41.5,
-  "sha256": ""
+  "download_url": "https://github.com/ORZ39/CartonDesigner/releases/download/v1.0.0/CartonDesigner_Setup_v1.0.exe",
+  "file_size_mb": 41.51,
+  "sha256": "3ea8f5aaa19688cab421b1bc0932c309b837b3bcb997435aaa91f32667d31210"
 }
