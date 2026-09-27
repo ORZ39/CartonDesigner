@@ -4,7 +4,7 @@
   "mandatory": false,
   "title_ar": "إصدار جديد متوفر لمصمم الكراتين (v1.0.1)",
   "changelog_ar": "• إطلاق النسخة المعتمدة لمصمم كراتين الليزر.\n• منظومة التراخيص الرقمية المقفلة بالعتاد.\n• دعم تصدير ملفات DXF, PDF, SVG, AI بدقة عالية.\n• معالج التثبيت لويندوز مع نظام التحديثات التلقائية.",
-  "download_url": "https://github.com/ORZ39/CartonDesigner/releases/download/v1.0.1/CartonDesigner_Setup_v1.0.exe",
+  "download_url": "https://github.com/ORZ39/CartonDesigner/releases/download/v1.0.1/CartonDesigner_Setup_v1.0.1.exe",
   "file_size_mb": 41.51,
-  "sha256": "a8bc5f2fcd4078015695113dc812894707935abc07c27d6595e005ab7efe5100"
+  "sha256": "60827e3d925df12c24b44f49187d17a55175a6406c2714b270e5074d724e68e6"
 }
