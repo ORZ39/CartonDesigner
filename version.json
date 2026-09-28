@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "release_date": "2026-09-28",
   "mandatory": false,
-  "title_ar": "إصدار جديد متوفر لمصمم الكراتين (v1.0.1)",
+  "title_ar": "إصدار جديد متوفر لمصمم الكراتين (v1.0.3)",
   "changelog_ar": "إصدار معتمد",
-  "download_url": "https://github.com/ORZ39/CartonDesigner/releases/download/v1.0.1/CartonDesigner_Setup_v1.0.1.exe",
-  "file_size_mb": 41.52,
-  "sha256": "040d659bc20f408f61cebbd68cd048970f475aecfa55a47f4159bbd564269378"
+  "download_url": "https://github.com/ORZ39/CartonDesigner/releases/download/v1.0.3/CartonDesigner_Setup_v1.0.3.exe",
+  "file_size_mb": 41.51,
+  "sha256": "cb72adb0a0d43095ddae531270fb3fd35c90a0480daf6cae82e15f9129f31845"
 }
